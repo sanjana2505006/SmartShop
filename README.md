@@ -65,4 +65,4 @@ As per project guidelines, the following technologies are used:
 
 ---
 *SmartShop transforms the traditional mess system into a modern, service-based e-commerce platform.*
-# ShopsMart
+
